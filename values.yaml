@@ -1,0 +1,7 @@
+mysql:
+  rootPassword: changeme # You can update this to a more secure password
+  database: matomo
+  storage: 10Gi
+
+matomo:
+  storage: 10Gi
